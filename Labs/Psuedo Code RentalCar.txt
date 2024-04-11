@@ -1,0 +1,28 @@
+Psuedo Code RentalCarCalculator
+
+Ask user for pickup date
+Collect answer
+ASk user for # of days for the rental
+Collect # of days
+Ask if they want an electronic toll tag (yes/No)
+Collect Answer
+Ask if they want a gps (yes/no)
+collect answer
+Ask if they want roadside assistance (Yes/No)
+collect answer
+Ask for current Age
+collect answer
+Calculate basic car rental
+display basic car rental
+Calculate options cost
+	toll tag $3.95 * Number of days
+	GPS $2.95 * Number of days
+	Roadside $3.95 * Number of days
+display options cost
+Calculate Cost of charges
+Add underage driver surcharge
+	If under 25 add 30% surcharge.
+display underage driver surcharge
+Calculate sum of all charges
+Display sum of all charges to show total cost. 
+
